@@ -1,2 +1,2 @@
 # Income-tax-calculator
-By using c++
+By using C Language
